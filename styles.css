@@ -1,4 +1,4 @@
-.one:nth-child(odd)
+.selector:nth-child(odd)
 {
 	background-color:#eee;
 	color:#00f;
